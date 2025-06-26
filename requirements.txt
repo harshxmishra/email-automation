@@ -1,0 +1,12 @@
+torch
+torchvision
+marker-pdf
+langchain_groq
+Pillow
+langchain_core
+google-generativeai
+markdown
+requests
+beautifulsoup4
+lxml
+schedule
