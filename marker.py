@@ -247,13 +247,13 @@ from email.mime.image import MIMEImage
 from_address = "harsh.mishra@analyticsvidhya.com"
 password = "wtfh wdqd jglv wfcn"  # Use App Password
 
-# to_addresses = ["harsh.mishra@analyticsvidhya.com"]
+to_addresses = ["harsh.mishra@analyticsvidhya.com"]
 
-to_addresses = ["sunil.ray@analyticsvidhya.com", "dipanjan.sarkar@analyticsvidhya.com","mishraxharsh@gmail.com","badrinarayan@analyticsvidhya.com",
-                "anu.madan@analyticsvidhya.com", "pankaj.singh@analyticsvidhya.com", "nitika.sharma@analyticsvidhya.com", "harshit@analyticsvidhya.com",
-                "aayush.tyagi@analyticsvidhya.com", "soumil.jain@analyticsvidhya.com", "shaik.hamzah@analyticsvidhya.com", "riya.bansal@analyticsvidhya.com",
-                "vipin.vashist@analyticsvidhya.com", "mounish.venkata@analyticsvidhya.com", "gyan@analyticsvidhya.com", "himanshu@analyticsvidhya.com", "janvi.mishra@analyticsvidhya.com",
-                "k.sabreena@analyticsvidhya.com", "apoorv@analyticsvidhya.com", "vasudeosankrityayan@gmail.com"]
+# to_addresses = ["sunil.ray@analyticsvidhya.com", "dipanjan.sarkar@analyticsvidhya.com","mishraxharsh@gmail.com","badrinarayan@analyticsvidhya.com",
+#                 "anu.madan@analyticsvidhya.com", "pankaj.singh@analyticsvidhya.com", "nitika.sharma@analyticsvidhya.com", "harshit@analyticsvidhya.com",
+#                 "aayush.tyagi@analyticsvidhya.com", "soumil.jain@analyticsvidhya.com", "shaik.hamzah@analyticsvidhya.com", "riya.bansal@analyticsvidhya.com",
+#                 "vipin.vashist@analyticsvidhya.com", "mounish.venkata@analyticsvidhya.com", "gyan@analyticsvidhya.com", "himanshu@analyticsvidhya.com", "janvi.mishra@analyticsvidhya.com",
+#                 "k.sabreena@analyticsvidhya.com", "apoorv@analyticsvidhya.com", "vasudeosankrityayan@gmail.com"]
 
 # Get today's date in desired format
 today_date = datetime.datetime.now().strftime("%d %b %Y")  # Example: "20 Dec 2024"
